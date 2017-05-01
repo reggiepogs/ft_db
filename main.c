@@ -1,6 +1,7 @@
-void	ft_db(void);
+#include "ft_db.h"
 
 int		main(void)
 {
+	system("clear");
 	ft_db();
 }
