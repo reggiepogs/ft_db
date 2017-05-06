@@ -2,6 +2,7 @@ NAME	= ft_db
 
 SRCS	=	main.c \
 			ft_db.c \
+			options.c \
 
 LIBDIR 	=	./libft/
 LIBFT	=	$(addprefix $(LIBDIR), libft.a)
